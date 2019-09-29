@@ -8,4 +8,5 @@ $(document).ready(
         $(document).on('click touch','li', function(){
             $(this).fadeOut('slow');    
         });
+        
 });
